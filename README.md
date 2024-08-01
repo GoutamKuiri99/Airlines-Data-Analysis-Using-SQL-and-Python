@@ -1,4 +1,7 @@
 ## Airlines Data Analysis Project Using SQL and Python
+![image](https://github.com/user-attachments/assets/6e6be4e6-75be-4e7c-967d-3d8d000b83ba)
+
+
 ### Overview
 Welcome to the Airline Data Business Project! This repository is dedicated to addressing the critical issue of revenue loss in the airline industry by developing a robust business model using SQL and Python. Our primary objectives are to increase the Occupancy Rate, optimize the Pricing Strategy, and enhance Customer Experience.
 
