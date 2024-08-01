@@ -1,1 +1,1 @@
-# Airlines-Data-Analysis-Using-SQL-and-Python
+# Airlines Data Analysis Project Using SQL and Python
